@@ -169,9 +169,6 @@ Edit `main.py` to:
 - HuggingFace inference can take 30-60 seconds per image
 - Consider using dedicated GPU instances
 
-## 📝 License
-
-[Add your license here]
 
 ## 🤝 Contributing
 
